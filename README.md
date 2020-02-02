@@ -1,2 +1,2 @@
 # udacity_ML-engineer-nanodegree
-Udacity Machine Learning Engineer Nanodegree Project
+Udacity Machine Learning Engineer Nanodegree Projects
