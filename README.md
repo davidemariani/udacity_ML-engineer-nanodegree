@@ -1,2 +1,3 @@
 # udacity_ML-engineer-nanodegree
-Udacity Machine Learning Engineer Nanodegree Projects
+My projects for the Udacity Machine Learning Engineer Nanodegree:  
+- deployment of a sentiment analysis model using Amazon SageMaker
